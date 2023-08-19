@@ -13,4 +13,9 @@ public class index {
         System.out.println("hello vinod ");
 
     }
+
+    public static void branch() {
+        // branch added
+
+    }
 }
