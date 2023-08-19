@@ -16,6 +16,12 @@ public class index {
 
     public static void branch() {
         // branch added
+    }
+
+    }
+
+    public static void branch() {
+        // branch 1
 
     }
 }
