@@ -10,4 +10,9 @@ public class index {
     public static void hello() {
         System.out.println("sasrical how are you?");
     }
+
+    public static void welcome() {
+        System.out.println("Your Welcome !!1");
+
+    }
 }
